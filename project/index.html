@@ -1,6 +1,8 @@
 
 <!DOCTYPE HTML>
+
 <html>
+
 <head>
 	<meta charset="utf-8">
 	<title>project - Zhengjie Miao's Home</title>
@@ -21,12 +23,12 @@
 	<link rel="canonical" href="http://J-Miao.github.io/project/">
 	<link href="/favicon.png" rel="shortcut icon">
 	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<link href="/stylesheets/font-awesome.min.css" media="screen, projection" rel="stylesheet" type="text/css">
 	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
-	<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+	
+  
 
 </head>
 
@@ -35,12 +37,24 @@
 	<div class="container">
 		<div class="left-col">
 			<div class="intrude-less">
-			<header id="header" class="inner"><nav id="main-nav"><ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
+			<header id="header" class="inner"><div class="profilepic">
+	
+	<script src="/javascripts/md5.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$('.profilepic').append("<img src='http://www.gravatar.com/avatar/" + MD5("") + "?s=160' alt='Profile Picture' style='width: 160px;' />");
+		});
+	</script>
+	
+</div>
+
+<nav id="main-nav"><ul class="main">
+    <li><a href="/">Blog</a></li>
+    <li><a href="http://about.me/shashankmehta">About</a></li>
+    <li><a href="/blog/archives">Archives</a></li>
 </ul>
 </nav>
-<!-- <nav id="sub-nav">
+<nav id="sub-nav">
 	<div class="social">
 		
 		
@@ -52,42 +66,25 @@
 		
 		
 		
-		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		
+		
+		
+		
+    	
+    	
+			<a class="rss" href="/atom.xml" title="RSS">RSS</a>
 		
 	</div>
-</nav> -->
-<div class="profile-container">
-  <div class="profilepic">
-    <script src="/javascripts/md5.js"></script>
-    <script type="text/javascript">
-$(function(){
-  $('.profilepic').append("<img src='http://www.gravatar.com/avatar/" + MD5("") + "?s=160' alt='Profile Picture' style='width: 160px;' />");
-});
-    </script>
-  </div>
-  <hgroup>
-  <h1 class="site-title"><a href="/">Zhengjie Miao's Home</a></h1>
-  
-  <p class="site-subtitle">I'm not a geek; but I'm trying so hard to be.</p>
-  
-  </hgroup>
-  <hgroup>
-  <h1><a href="/">Zhengjie Miao's Home</a></h1>
-  
-    <h2>I'm not a geek; but I'm trying so hard to be.</h2>
-  
-</hgroup>
-
-</div>
-</header>
+</nav>
+</header>				
 			</div>
-		</div>
+		</div>	
 		<div class="mid-col">
 			
 				
 			
 			<div class="mid-col-container">
-				<div id="content" class="article-inner"><article class="page">
+				<div id="content" class="inner"><article class="page">
     
     <h1 class="title">Project</h1>
     
@@ -96,29 +93,30 @@ $(function(){
 </article>
 
 	<div class="share">
-	<div class="share_icon_group addthis_toolbox addthis_default_style addthis_32x32_style">
-	
-  <a class="share_icon addthis_button_preferred_1"></a>
+	<div class="addthis_toolbox addthis_default_style ">
 	
 	
+	<a class="addthis_button_tweet"></a>
 	
-	<a class="share_icon addthis_button_preferred_4"></a>
+	
+	<a class="addthis_counter addthis_pill_style"></a>
 	</div>
-  <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid="></script>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
 </div>
 
 
 
 </div>
 			</div>
-			<footer id="footer" class="inner"><p>
-  Copyright &copy; 2014 - Zhengjie Miao -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
+			<footer id="footer" class="inner">Copyright &copy; 2014
 
-<p>Theme: <a href="https://github.com/qingwang/octopress-theme-yinyang">YinYang</a></p>
-</footer>
-			<script src="/javascripts/slash.js"></script>
+    Zhengjie Miao
+
+
+Design credit: <a href="http://shashankmehta.in/archive/2012/greyshade.html">Shashank Mehta</a></footer>
+		</div>
+	</div>
+	<script src="/javascripts/slash.js"></script>
 <script src="/javascripts/jquery.fancybox.pack.js"></script>
 <script type="text/javascript">
 (function($){
@@ -131,8 +129,5 @@ $(function(){
 
 
 
-
-		</div>
-	</div>
 </body>
 </html>
