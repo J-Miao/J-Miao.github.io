@@ -489,6 +489,31 @@ function draw() {
 
 
 
+  var legend = d3.select("#legends").append("table").attr("class","legend");
+        
+        // create one row per segment.
+  var legendData = [3,2,0];
+  var tr = legend.append("tbody").selectAll("tr").data(lD).enter().append("tr");
+            
+        // create the first column for each segment.
+  tr.append("td").append("svg").attr("width", "18").attr("height", "18")
+    .append("path")
+    .attr("transform", function(d, i) { 
+        return "translate(" + 300 + "," + (54 * i) + ")"; 
+    })
+    .attr("d", d3.svg.symbol()
+                .size(function(d) { return 50; })
+                .type(function(d) { 
+                    return d3.svg.symbolTypes[d]; 
+                })
+    )
+    .attr("fill",function(d){ return "steelblue"; });
+        // create the second column for each segment.
+    tr.append("td").text(function(d){ return pType[d.type];});
+
+        // create the third column for each segment.
+    tr.append("td").attr("class","legendPerc")
+            .text(function(d){ return getLegend(d,lD);});
 
   // var legend = svg.selectAll(".legend")
   //     .data(color.domain())

@@ -36,13 +36,22 @@ function automate() {
 		max = 11,
 		digits = 0;
 
-	var yyyy = 2013,
-		MM = 5,
-		dd = 16,
-		HH = 05,
-		mm = 0,
+	// var yyyy = 2013,
+	// 	MM = 5,
+	// 	dd = 16,
+	// 	HH = 05,
+	// 	mm = 0,
+	// 	ss = 0,
+	// 	fff = 0;
+
+	var yyyy = 2015,
+		MM = 2,
+		dd = 2,
+		HH = 1,
+		mm = 52,
 		ss = 0,
 		fff = 0;
+
 
 	var start = new Date(yyyy, MM, dd, HH, mm, ss, fff);
 	//var ts = countdown(start, null, units, max, digits);
