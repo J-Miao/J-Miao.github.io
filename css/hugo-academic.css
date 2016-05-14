@@ -133,11 +133,11 @@ footer p.powered-by {
 /*}*/
 
 .home-section-wrapper.full_width.home {
-    padding: 110px 15%;
+    padding: 110px 10%;
     margin-top: 0px;
     margin-bottom: 0px;
-    width: 125%;
-    margin-left: -15.5%;
+    width: 100%;
+    margin-left: 0%;
     background-color: rgb(255, 255, 255);
 }
 
