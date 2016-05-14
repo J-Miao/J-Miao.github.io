@@ -20,7 +20,6 @@ html, body, p {
     font-size: 16px;
     line-height: 1.65;
     min-height: 100%;
-    zoom: 75%;
 }
 
 body {
@@ -124,14 +123,24 @@ footer p.powered-by {
     margin-right: calc(0vw);
 }
 
+/*.home-section-wrapper.full_width.home {*/
+    /*padding: 110px 371.25px;*/
+    /*margin-top: 0px;*/
+    /*margin-bottom: 0px;*/
+    /*width: 1905px;*/
+    /*margin-left: -382.5px;*/
+    /*background-color: rgb(255, 255, 255);*/
+/*}*/
+
 .home-section-wrapper.full_width.home {
-    padding: 110px 371.25px;
+    padding: 110px 15%;
     margin-top: 0px;
     margin-bottom: 0px;
-    width: 1905px;
-    margin-left: -382.5px;
+    width: 125%;
+    margin-left: -15.5%;
     background-color: rgb(255, 255, 255);
 }
+
 
 .home-section-wrapper.full_width.home:nth-of-type(even) {
     background-color: rgb(247, 247, 247);
