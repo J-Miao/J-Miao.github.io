@@ -25,8 +25,10 @@ function recenterLabel() {
 	}
 }
 
-//$('.countdown-label img').load()
-recenterLabel();
+$('.countdown-label img').load(function() {
+	recenterLabel();
+});
+
 
 $(window).resize(function() {
 	recenterLabel();
