@@ -14,6 +14,7 @@ function recenterLabel() {
 	var imgW = $('.countdown-label img').outerWidth();
 	var imgH = $('.countdown-label img').outerHeight();
 	var lbs = $('.countdown-label');
+	console.log(w, imgW, imgH);
 	for (var i = 0; i < lbs.length; i++) {
 		var left = $(lbs[i]).offset().left;
 		var top =  $(lbs[i]).offset().top;
@@ -25,8 +26,9 @@ function recenterLabel() {
 	}
 }
 
-//$('.countdown-label img').load()
-recenterLabel();
+$('.countdown-label img').load(function() {
+	recenterLabel();
+});
 
 $(window).resize(function() {
 	recenterLabel();
