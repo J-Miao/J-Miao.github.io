@@ -9,29 +9,33 @@ months = document.getElementById('months');
 years = document.getElementById('years');
 timeout = false;
 
+function recenterLabel() {
+	var w = $($('.countdown-label')[0]).outerWidth();
+	var imgW = $('.countdown-label img').outerWidth();
+	var imgH = $('.countdown-label img').outerHeight();
+	var lbs = $('.countdown-label');
+	for (var i = 0; i < lbs.length; i++) {
+		var left = $(lbs[i]).offset().left;
+		var top =  $(lbs[i]).offset().top;
+		$($('.countdown-label img')[i]).offset({left: left + 0.5*Math.abs(w - imgW)});
+		var lbtopW = $($('.countdown-label-top')[i]).outerWidth();
+		var lbbottomW = $($('.countdown-label-bottom')[i]).outerWidth();
+		$($('.countdown-label-top')[i]).offset({left: left + 0.5*Math.abs(w - lbtopW)});
+		$($('.countdown-label-bottom')[i]).offset({left: left + 0.5*Math.abs(w - lbbottomW), top: top + 0.35*imgH});
+	}
+}
+$(document).ready(function() {
+	recenterLabel();
+	$(window).resize(function() {
+		recenterLabel();
+	});
+});
+
+
 function automate() {
 	if(timeout != false) {
 		clearTimeout(timeout);
 	}
-	/*
-	var tmp_value = parseInt(seconds.innerHTML);
-	
-	if(tmp_value==59) {
-		tmp_value = -1;
-		minutes.innerHTML = parseInt(minutes.innerHTML) + 1;
-		if(minutes.innerHTML==60) {
-			minutes.innerHTML = 0;
-			hours.innerHTML = parseInt(hours.innerHTML) + 1;
-			if(hours.innerHTML == 60) {
-				hours.innerHTML = 0;
-				if(hours == 24) {
-					days.innerHTML = parseInt(days) + 1;
-				}
-			}
-		}
-	}
-
-	seconds.innerHTML = tmp_value + 1;*/
 	var units = ~countdown.ALL,
 		max = 11,
 		digits = 0;

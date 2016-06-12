@@ -14,32 +14,34 @@
 #countdown h2 {
     margin-bottom:10px
 }
-dl {
-    position:relative;height:80px;margin:20px auto 50px;width:810px;height:150px;
-    background:url("../img/calander-back.png")
-    repeat-x;font-family:"Hannotate SC Regular";font-size:1.6em;color:#FFF
+
+.countdown-label {
+    font-size: 1.6em;
+    text-align: center;
+    font-family:"Hannotate SC Regular";
+    color: white;
+    min-height: 200px;
 }
 
-dt {
-    position:absolute;top:10px;left:0;width:135px;text-align:center;padding-top:15px
+.countdown-label img {
+    position: absolute;
+
+    margin: auto;
 }
 
-dd {
-    position:absolute;top:60px;left:0;font-size:2.2em;text-align:center;width:135px
+.countdown-label-top{
+    position: absolute;
+    top: 20px;
+    height: 50%;
 }
 
-dt#years_lbl, dd#years{left:0}
+.countdown-label-bottom{
+    position: absolute;
+    top: 80px;
+    height: 50%;
+    font-size: 2.2em;
+}
 
-dt#months_lbl,dd#months{left:135px}
-
-dt#days_lbl,dd#days{left:270px}
-
-dt#hrs_lbl,dd#hours{left:405px}
-
-dt#mins_lbl,dd#minutes{left:540px}
-
-dt#secs_lbl,dd#seconds{left:675px}
-
-#counddown h1,dl * {
+#coundtown h1,dl * {
     text-shadow: #3D110D -1px -1px 3px; text-outline: 1px 1px #000;
 }
