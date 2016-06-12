@@ -24,7 +24,7 @@ function recenterLabel() {
 		$($('.countdown-label-bottom')[i]).offset({left: left + 0.5*Math.abs(w - lbbottomW), top: top + 0.35*imgH});
 	}
 }
-$(document).ready(function() {
+$('.countdown-label img').ready(function() {
 	recenterLabel();
 	$(window).resize(function() {
 		recenterLabel();
@@ -68,7 +68,7 @@ function automate() {
 	months.innerHTML = ts.months;
 	years.innerHTML = ts.years;
 
-
+	recenterLabel();
 	timeout = setTimeout('automate()', speed);
 }
 
