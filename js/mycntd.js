@@ -24,11 +24,12 @@ function recenterLabel() {
 		$($('.countdown-label-bottom')[i]).offset({left: left + 0.5*Math.abs(w - lbbottomW), top: top + 0.35*imgH});
 	}
 }
-$('.countdown-label img').ready(function() {
+
+//$('.countdown-label img').load()
+recenterLabel();
+
+$(window).resize(function() {
 	recenterLabel();
-	$(window).resize(function() {
-		recenterLabel();
-	});
 });
 
 

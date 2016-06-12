@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a07f37b-5788-49ea-846f-9c1344fc1897" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mycntd.js" afterPath="$PROJECT_DIR$/js/mycntd.js" />
-    </list>
+    <list default="true" id="8a07f37b-5788-49ea-846f-9c1344fc1897" name="Default" comment="" />
     <ignored path="J-Miao.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
