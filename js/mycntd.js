@@ -51,15 +51,22 @@ function automate() {
 	// 	ss = 0,
 	// 	fff = 0;
 
+	// var yyyy = 2015,
+	// 	MM = 4,
+	// 	dd = 3,
+	// 	HH = 22,
+	// 	mm = 20,
+	// 	ss = 0,
+	// 	fff = 0;
+
 	var yyyy = 2017,
 		MM = 4,
-		dd = 13,
-		HH = 04,
-		mm = 50,
+		dd = 12,
+		HH = 11,
+		mm = 53,
 		ss = 0,
 		fff = 0;
-
-
+	
 	var start = new Date(yyyy, MM, dd, HH, mm, ss, fff);
 	//var ts = countdown(start, null, units, max, digits);
 	var ts = countdown(start);

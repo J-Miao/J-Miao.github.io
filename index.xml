@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Zhengjie Miao</copyright>
-    <lastBuildDate>Fri, 13 May 2016 19:27:31 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Combining Design and Performance in a Data Visualization Management System</title>
+      <link>/publication/cidr17/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cidr17/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>about</title>
@@ -29,11 +38,11 @@
 
 &lt;h2 id=&#34;biography:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Biography&lt;/h2&gt;
 
-&lt;p&gt;I am Zhengjie Miao, currently a Master&amp;rsquo;s student in the &lt;a href=&#34;http://www.cs.columbia.edu/&#34;&gt;Department of Computer Science, Columbia University&lt;/a&gt;.
-I am working with &lt;a href=&#34;http://www.cs.columbia.edu/~ewu&#34;&gt;Prof. Eugene Wu&lt;/a&gt; in the &lt;a href=&#34;http://cudbg.github.io/&#34;&gt;Columbia University Database Research Group&lt;/a&gt; on enhancing data visualizations.
-My research interests covers the topics of information visualization, visual analytics, and data mining.&lt;/p&gt;
+&lt;p&gt;I am Zhengjie Miao, currently a PhD student in the &lt;a href=&#34;http://www.cs.duke.edu/&#34;&gt;Department of Computer Science, Duke University&lt;/a&gt;. I am working with &lt;a href=&#34;https://users.cs.duke.edu/~junyang/&#34;&gt;Prof. Jun Yang&lt;/a&gt; and &lt;a href=&#34;https://users.cs.duke.edu/~sudeepa/&#34;&gt;Prof. Sudeepa Roy&lt;/a&gt; on &lt;a href=&#34;https://sites.duke.edu/duke_dbgroup/&#34;&gt;databases&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Before starting my graduate study at &lt;a href=&#34;http://www.columbia.edu/&#34;&gt;Columbia University&lt;/a&gt;, I worked as a research assistant in &lt;a href=&#34;http://vis.pku.edu.cn&#34;&gt;Visualization and Visual Analytics Group&lt;/a&gt; at &lt;a href=&#34;http://pku.edu.cn&#34;&gt;Peking University&lt;/a&gt;, under the advisory of &lt;a href=&#34;http://vis.pku.edu.cn/yuanxiaoru/&#34;&gt;Prof. Xiaoru Yuan&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Before joining Duke, I received M.S. in Computer Science from &lt;a href=&#34;http://www.cs.columbia.edu/&#34;&gt;Columbia University&lt;/a&gt;, under the advisory of &lt;a href=&#34;http://www.cs.columbia.edu/~ewu&#34;&gt;Prof. Eugene Wu&lt;/a&gt; and worked on interactive data analysis system. I got my B.S. in Computer Science from &lt;a href=&#34;http://eecs.pku.edu.cn/&#34;&gt;Peking University&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- Before starting my graduate study at [Columbia University](http://www.columbia.edu/), I worked as a research assistant in [Visualization and Visual Analytics Group](http://vis.pku.edu.cn) at [Peking University](http://pku.edu.cn), under the advisory of [Prof. Xiaoru Yuan](http://vis.pku.edu.cn/yuanxiaoru/). --&gt;
 </description>
     </item>
     
