@@ -82,7 +82,9 @@ function automate() {
 	timeout = setTimeout('automate()', speed);
 }
 
-automate();
+if (seconds) {
+	automate();
+}
 
 /*
 (function() {

@@ -116,10 +116,19 @@ A highly stylized thread viewer for PKU BBS. A dedicated crawler pulls down all 
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/personal/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;ACM/ICPC Regional Contests participant of both Peking University and Columbia University&lt;/li&gt;
-&lt;li&gt;Amateur badminton player, more amateur basketball player, and even more amateur soccer player&lt;/li&gt;
-&lt;li&gt;Sanguosha, Hearthstone, and Football Manager :)&lt;/li&gt;
+      <description>&lt;ul class=&#34;list-unstyled&#34;&gt;
+&lt;li&gt; 
+    &lt;i class=&#34;fa fa-lightbulb-o fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 
+    &lt;span&gt;ACM/ICPC Regional Contests participant&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    &lt;i class=&#34;fa fa-soccer-ball-o fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 
+    &lt;span&gt;Amateur badminton player, more amateur basketball player&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    &lt;i class=&#34;fa fa-gamepad fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 
+    &lt;span&gt;Sanguosha, Hearthstone, and Football Manager :)&lt;/span&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
