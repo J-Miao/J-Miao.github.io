@@ -199,7 +199,7 @@ footer p.powered-by {
 .pub-icon {
     color: #03396c;
     font-size: 0.81em;
-    padding-top: 6px;
+    padding-top: 2px;
 }
 
 .citation_authors {
@@ -219,6 +219,11 @@ footer p.powered-by {
     padding-left: 10px;
 }
 */
+.contact-icon {
+    font-size: 0.81em;
+    padding-top: 2px;
+}
+
 /*************************************************
  *  Personal
  **************************************************/
@@ -227,6 +232,10 @@ footer p.powered-by {
     padding-left: 10px;
 }
 */
+.personal-icon {
+    font-size: 0.81em;
+    padding-top: 2px;
+}
 /*************************************************
  *  Profile
  **************************************************/

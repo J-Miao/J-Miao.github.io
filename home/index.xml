@@ -36,15 +36,15 @@
       <guid>/home/personal/</guid>
       <description>&lt;ul class=&#34;fa-ul&#34;&gt;
 &lt;li&gt; 
-    &lt;i class=&#34;fa-li fa fa-lightbulb-o fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 
+    &lt;i class=&#34;fa-li fa fa-lightbulb-o fa-fw personal-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 
     &lt;span style=&#34;padding-right: 8px&#34;&gt;ACM/ICPC Regional Contests participant&lt;/span&gt;
 &lt;/li&gt;
 &lt;li&gt;
-    &lt;i class=&#34;fa-li fa fa-soccer-ball-o fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 
+    &lt;i class=&#34;fa-li fa fa-soccer-ball-o fa-fw personal-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 
     &lt;span style=&#34;padding-right: 8px&#34;&gt;Amateur badminton player, more amateur basketball player&lt;/span&gt;
 &lt;/li&gt;
 &lt;li&gt;
-    &lt;i class=&#34;fa-li fa fa-gamepad fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 
+    &lt;i class=&#34;fa-li fa fa-gamepad fa-fw personal-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; 
     &lt;span style=&#34;padding-right: 8px&#34;&gt;Sanguosha, Hearthstone, and Football Manager :)&lt;/span&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
