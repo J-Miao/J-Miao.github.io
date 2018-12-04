@@ -43,6 +43,15 @@ function automate() {
 		max = 11,
 		digits = 0;
 
+	var yyyy = 2012,
+		MM = 5,
+		dd = 20,
+		HH = 05,
+		mm = 30,
+		ss = 0,
+		fff = 0;
+
+
 	// var yyyy = 2013,
 	// 	MM = 5,
 	// 	dd = 16,
@@ -67,13 +76,13 @@ function automate() {
 	// 	ss = 0,
 	// 	fff = 0;
 	
-	var yyyy = 2018,
-		MM = 4,
-		dd = 19,
-		HH = 14,
-		mm = 09,
-		ss = 0,
-		fff = 0;
+	// var yyyy = 2018,
+	// 	MM = 4,
+	// 	dd = 19,
+	// 	HH = 14,
+	// 	mm = 10,
+	// 	ss = 0,
+	// 	fff = 0;
 	
 	var start = new Date(yyyy, MM, dd, HH, mm, ss, fff);
 	//var ts = countdown(start, null, units, max, digits);
