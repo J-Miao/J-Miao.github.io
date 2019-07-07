@@ -2,67 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Zhengjie Miao&#39;s Home</title>
-    <link>/publication/</link>
+    <link>https://J-Miao.github.io/publication/</link>
     <description>Recent content in Publications on Zhengjie Miao&#39;s Home</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Zhengjie Miao</copyright>
-    <lastBuildDate>Fri, 18 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; {year} Zhengjie Miao</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://J-Miao.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Explaining Wrong Queries Using Small Examples</title>
-      <link>/publication/sigmod19-explaining/</link>
-      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      <title>CAPE: Explaining Outliers by Counterbalancing</title>
+      <link>https://J-Miao.github.io/publication/vldb19-demo-cape/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/sigmod19-explaining/</guid>
+      <guid>https://J-Miao.github.io/publication/vldb19-demo-cape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LensXPlain: Visualizing and Explaining Contributing Subsets for Aggregate Query Answer</title>
+      <link>https://J-Miao.github.io/publication/vldb19-demo-lensxplain/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/publication/vldb19-demo-lensxplain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining Wrong Queries Using Small Examples</title>
+      <link>https://J-Miao.github.io/publication/sigmod19-explaining/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/publication/sigmod19-explaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RATest: Explaining Wrong Relational Queries Using Small Examples</title>
+      <link>https://J-Miao.github.io/publication/sigmod19-demo-ratest/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/publication/sigmod19-demo-ratest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Going Beyond Provenance: Explaining Query Answers with Pattern-based Counterbalances</title>
-      <link>/publication/sigmod19-going/</link>
+      <link>https://J-Miao.github.io/publication/sigmod19-going/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/sigmod19-going/</guid>
+      <guid>https://J-Miao.github.io/publication/sigmod19-going/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining Design and Performance in a Data Visualization Management System</title>
-      <link>/publication/cidr17/</link>
+      <link>https://J-Miao.github.io/publication/cidr17/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cidr17/</guid>
+      <guid>https://J-Miao.github.io/publication/cidr17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A platform for collaborative visual analysis on streaming messages</title>
-      <link>/publication/vast-challenge-2014-mc3/</link>
+      <link>https://J-Miao.github.io/publication/vast-challenge-2014-mc3/</link>
       <pubDate>Sun, 09 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/vast-challenge-2014-mc3/</guid>
+      <guid>https://J-Miao.github.io/publication/vast-challenge-2014-mc3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MovementFinder: A Multi-filter Visual Analytics Design for Movement Data Investigation</title>
-      <link>/publication/vast-challenge-2014-mc2/</link>
+      <link>https://J-Miao.github.io/publication/vast-challenge-2014-mc2/</link>
       <pubDate>Sun, 09 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/vast-challenge-2014-mc2/</guid>
+      <guid>https://J-Miao.github.io/publication/vast-challenge-2014-mc2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Story Explorer: A Visual Analysis Tool for Heterogeneous Text Data</title>
-      <link>/publication/vast-challenge-2014-mc1/</link>
+      <link>https://J-Miao.github.io/publication/vast-challenge-2014-mc1/</link>
       <pubDate>Sun, 09 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/vast-challenge-2014-mc1/</guid>
+      <guid>https://J-Miao.github.io/publication/vast-challenge-2014-mc1/</guid>
       <description></description>
     </item>
     

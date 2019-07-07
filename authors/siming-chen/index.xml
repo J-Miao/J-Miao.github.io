@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siming Chen on Zhengjie Miao&#39;s Home</title>
+    <link>https://J-Miao.github.io/authors/siming-chen/</link>
+    <description>Recent content in Siming Chen on Zhengjie Miao&#39;s Home</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Zhengjie Miao</copyright>
+    <lastBuildDate>Sun, 09 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://J-Miao.github.io/authors/siming-chen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A platform for collaborative visual analysis on streaming messages</title>
+      <link>https://J-Miao.github.io/publication/vast-challenge-2014-mc3/</link>
+      <pubDate>Sun, 09 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/publication/vast-challenge-2014-mc3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MovementFinder: A Multi-filter Visual Analytics Design for Movement Data Investigation</title>
+      <link>https://J-Miao.github.io/publication/vast-challenge-2014-mc2/</link>
+      <pubDate>Sun, 09 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/publication/vast-challenge-2014-mc2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story Explorer: A Visual Analysis Tool for Heterogeneous Text Data</title>
+      <link>https://J-Miao.github.io/publication/vast-challenge-2014-mc1/</link>
+      <pubDate>Sun, 09 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/publication/vast-challenge-2014-mc1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
