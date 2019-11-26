@@ -514,7 +514,7 @@
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">M.S. in Computer Science, 2016</p>
-              <p class="institution">Columbia University</p>
+              <p class="institution">Duke University</p>
             </div>
           </li>
           
@@ -620,7 +620,7 @@
   </span>
   (2019).
   <a href="/publication/vldb19-demo-cape/" itemprop="name">CAPE: Explaining Outliers by Counterbalancing</a>.
-  Proceedings of the VLDB Endowment (PVLDB), Vol 12, Demonstration Track (To appear).
+  Proceedings of the VLDB Endowment (PVLDB), Vol 12, Demonstration Track.
   
   <p>
 
@@ -632,8 +632,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.vldb.org/pvldb/vol12/p1806-miao.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -675,7 +681,7 @@
   </span>
   (2019).
   <a href="/publication/vldb19-demo-lensxplain/" itemprop="name">LensXPlain: Visualizing and Explaining Contributing Subsets for Aggregate Query Answer</a>.
-  Proceedings of the VLDB Endowment (PVLDB), Vol 12, Demonstration Track (To appear).
+  Proceedings of the VLDB Endowment (PVLDB), Vol 12, Demonstration Track.
   
   <p>
 
@@ -687,8 +693,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.vldb.org/pvldb/vol12/p1898-miao.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -742,8 +754,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1904.04467" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -797,8 +815,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://users.cs.duke.edu/~sudeepa/papers/SIGMOD2019-ratest-demo.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -1074,7 +1098,7 @@
       
       <li>
         <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address" itemprop="address">D307 LSRC Building, 308 Research Drive, Durham, NC 27708</span>
+        <span id="person-address" itemprop="address">D339 LSRC Building, 308 Research Drive, Durham, NC 27708</span>
       </li>
       
 
@@ -1138,6 +1162,8 @@
       <div class="row d-flex justify-content-center">
     <a href="http://www.chelseafc.com" class="img-logo">
         <img src="/img/cfc_main_logo.png" alt="Chelsea" /></a>
+</div>
+<div class="row d-flex justify-content-center">
     <h1>Since Chelsea Last Won UEFA Champions League</h1>
 </div>
 <div class="row d-flex justify-content-center">
@@ -1279,9 +1305,11 @@
     
       
     
+      
     
     
-    <script src="/js/academic.min.1e45a91bb80d13ab60f9dc8b443004cd.js"></script>
+    
+    <script src="/js/academic.min.97afe8bcd02ba654e3a7afc59694f0b7.js"></script>
 
     
 
@@ -1313,79 +1341,6 @@
     
   </p>
 </footer>
-<script type="text/javascript">
-  var years, months, days, hours, minutes, seconds, timeout;
-  var speed = 1000;
-
-  seconds = document.getElementById('seconds');
-  minutes = document.getElementById('minutes');
-  hours = document.getElementById('hours');
-  days = document.getElementById('days');
-  months = document.getElementById('months');
-  years = document.getElementById('years');
-  timeout = false;
-
-function recenterLabel() {
-  var w = $($('.countdown-label')[0]).outerWidth();
-  var imgW = $('.countdown-label img').outerWidth();
-  var imgH = $('.countdown-label img').outerHeight();
-  var lbs = $('.countdown-label');
-  for (var i = 0; i < lbs.length; i++) {
-    var left = $(lbs[i]).offset().left;
-    var top =  $(lbs[i]).offset().top;
-    $($('.countdown-label img')[i]).offset({left: left + 0.5*Math.abs(w - imgW)});
-    var lbtopW = $($('.countdown-label-top')[i]).outerWidth();
-    var lbbottomW = $($('.countdown-label-bottom')[i]).outerWidth();
-    $($('.countdown-label-top')[i]).offset({left: left + 0.5*Math.abs(w - lbtopW)});
-    $($('.countdown-label-bottom')[i]).offset({left: left + 0.5*Math.abs(w - lbbottomW), top: top + 0.35*imgH});
-  }
-}
-
-$('.countdown-label img').on('load', function() {
-  recenterLabel();
-});
-
-
-$(window).on('resize', function() {
-  recenterLabel();
-});
-
-
-function automate() {
-  if(timeout != false) {
-    clearTimeout(timeout);
-  }
-  var units = ~countdown.ALL,
-    max = 11,
-    digits = 0;
-
-  var yyyy = 2012,
-    MM = 5,
-    dd = 20,
-    HH = 05,
-    mm = 30,
-    ss = 0,
-    fff = 0;
-
-  var start = new Date(yyyy, MM, dd, HH, mm, ss, fff);
-  
-  var ts = countdown(start);
-  seconds.innerHTML = ts.seconds;
-  minutes.innerHTML = ts.minutes;
-  hours.innerHTML = ts.hours;
-  days.innerHTML = ts.days;
-  months.innerHTML = ts.months;
-  years.innerHTML = ts.years;
-
-  recenterLabel();
-  timeout = setTimeout('automate()', speed);
-}
-
-if (seconds) {
-  automate();
-}
-
-</script>
 
   </div>
   

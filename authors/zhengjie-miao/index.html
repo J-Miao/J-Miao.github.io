@@ -471,9 +471,11 @@
     
       
     
+      
     
     
-    <script src="/js/academic.min.1e45a91bb80d13ab60f9dc8b443004cd.js"></script>
+    
+    <script src="/js/academic.min.97afe8bcd02ba654e3a7afc59694f0b7.js"></script>
 
     
 
@@ -505,79 +507,6 @@
     
   </p>
 </footer>
-<script type="text/javascript">
-  var years, months, days, hours, minutes, seconds, timeout;
-  var speed = 1000;
-
-  seconds = document.getElementById('seconds');
-  minutes = document.getElementById('minutes');
-  hours = document.getElementById('hours');
-  days = document.getElementById('days');
-  months = document.getElementById('months');
-  years = document.getElementById('years');
-  timeout = false;
-
-function recenterLabel() {
-  var w = $($('.countdown-label')[0]).outerWidth();
-  var imgW = $('.countdown-label img').outerWidth();
-  var imgH = $('.countdown-label img').outerHeight();
-  var lbs = $('.countdown-label');
-  for (var i = 0; i < lbs.length; i++) {
-    var left = $(lbs[i]).offset().left;
-    var top =  $(lbs[i]).offset().top;
-    $($('.countdown-label img')[i]).offset({left: left + 0.5*Math.abs(w - imgW)});
-    var lbtopW = $($('.countdown-label-top')[i]).outerWidth();
-    var lbbottomW = $($('.countdown-label-bottom')[i]).outerWidth();
-    $($('.countdown-label-top')[i]).offset({left: left + 0.5*Math.abs(w - lbtopW)});
-    $($('.countdown-label-bottom')[i]).offset({left: left + 0.5*Math.abs(w - lbbottomW), top: top + 0.35*imgH});
-  }
-}
-
-$('.countdown-label img').on('load', function() {
-  recenterLabel();
-});
-
-
-$(window).on('resize', function() {
-  recenterLabel();
-});
-
-
-function automate() {
-  if(timeout != false) {
-    clearTimeout(timeout);
-  }
-  var units = ~countdown.ALL,
-    max = 11,
-    digits = 0;
-
-  var yyyy = 2012,
-    MM = 5,
-    dd = 20,
-    HH = 05,
-    mm = 30,
-    ss = 0,
-    fff = 0;
-
-  var start = new Date(yyyy, MM, dd, HH, mm, ss, fff);
-  
-  var ts = countdown(start);
-  seconds.innerHTML = ts.seconds;
-  minutes.innerHTML = ts.minutes;
-  hours.innerHTML = ts.hours;
-  days.innerHTML = ts.days;
-  months.innerHTML = ts.months;
-  years.innerHTML = ts.years;
-
-  recenterLabel();
-  timeout = setTimeout('automate()', speed);
-}
-
-if (seconds) {
-  automate();
-}
-
-</script>
 
   </div>
   
