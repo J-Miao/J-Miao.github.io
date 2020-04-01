@@ -3,13 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://J-Miao.github.io/authors/andrew-lee/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <loc>https://J-Miao.github.io/authors/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://J-Miao.github.io/authors/</loc>
+    <loc>https://J-Miao.github.io/publication/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/publication/www20-snippext/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/authors/wang-chiew-tan/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/authors/xiaolan-wang/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/authors/yuliang-li/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/authors/zhengjie-miao/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/authors/andrew-lee/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -43,11 +83,6 @@
   </url>
   
   <url>
-    <loc>https://J-Miao.github.io/publication/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://J-Miao.github.io/authors/qitian-zeng/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -55,18 +90,6 @@
   
   <url>
     <loc>https://J-Miao.github.io/authors/sudeepa-roy/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://J-Miao.github.io/authors/zhengjie-miao/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://J-Miao.github.io/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
