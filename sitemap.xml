@@ -3,6 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://J-Miao.github.io/irex/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://J-Miao.github.io/authors/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -38,12 +49,6 @@
   
   <url>
     <loc>https://J-Miao.github.io/authors/zhengjie-miao/</loc>
-    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://J-Miao.github.io/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
