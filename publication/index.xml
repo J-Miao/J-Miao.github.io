@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Zhengjie Miao</copyright>
-    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://J-Miao.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Putting Things into Context: Rich Explanations for QueryAnswers using Join Graphs</title>
+      <link>https://J-Miao.github.io/publication/sigmod21-cajade/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/publication/sigmod21-cajade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotom: A Meta-Learned Data Augmentation Framework for Entity Matching, Data Cleaning, Text Classification, and Beyond</title>
+      <link>https://J-Miao.github.io/publication/sigmod21-rotom/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/publication/sigmod21-rotom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Snippext: Semi-supervised Opinion Mining with Augmented Data</title>

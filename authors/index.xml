@@ -7,24 +7,51 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Zhengjie Miao</copyright>
-    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://J-Miao.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Wang-Chiew Tan</title>
-      <link>https://J-Miao.github.io/authors/wang-chiew-tan/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Boris Glavic</title>
+      <link>https://J-Miao.github.io/authors/boris-glavic/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://J-Miao.github.io/authors/wang-chiew-tan/</guid>
+      <guid>https://J-Miao.github.io/authors/boris-glavic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chenjie Li</title>
+      <link>https://J-Miao.github.io/authors/chenjie-li/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/authors/chenjie-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qitian Zeng*</title>
+      <link>https://J-Miao.github.io/authors/qitian-zeng/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/authors/qitian-zeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sudeepa Roy</title>
+      <link>https://J-Miao.github.io/authors/sudeepa-roy/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/authors/sudeepa-roy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xiaolan Wang</title>
       <link>https://J-Miao.github.io/authors/xiaolan-wang/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://J-Miao.github.io/authors/xiaolan-wang/</guid>
       <description></description>
@@ -33,7 +60,7 @@
     <item>
       <title>Yuliang Li</title>
       <link>https://J-Miao.github.io/authors/yuliang-li/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://J-Miao.github.io/authors/yuliang-li/</guid>
       <description></description>
@@ -42,9 +69,18 @@
     <item>
       <title>Zhengjie Miao</title>
       <link>https://J-Miao.github.io/authors/zhengjie-miao/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://J-Miao.github.io/authors/zhengjie-miao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wang-Chiew Tan</title>
+      <link>https://J-Miao.github.io/authors/wang-chiew-tan/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/authors/wang-chiew-tan/</guid>
       <description></description>
     </item>
     
@@ -58,47 +94,11 @@
     </item>
     
     <item>
-      <title>Boris Glavic</title>
-      <link>https://J-Miao.github.io/authors/boris-glavic/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://J-Miao.github.io/authors/boris-glavic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chenjie Li</title>
-      <link>https://J-Miao.github.io/authors/chenjie-li/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://J-Miao.github.io/authors/chenjie-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Oliver Kennedy</title>
       <link>https://J-Miao.github.io/authors/oliver-kennedy/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://J-Miao.github.io/authors/oliver-kennedy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qitian Zeng*</title>
-      <link>https://J-Miao.github.io/authors/qitian-zeng/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://J-Miao.github.io/authors/qitian-zeng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sudeepa Roy</title>
-      <link>https://J-Miao.github.io/authors/sudeepa-roy/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://J-Miao.github.io/authors/sudeepa-roy/</guid>
       <description></description>
     </item>
     
