@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Zhengjie Miao</copyright>
-    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://J-Miao.github.io/authors/wang-chiew-tan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Augmentation for ML-driven Data Preparation and Integration</title>
+      <link>https://J-Miao.github.io/publication/vldb21-tutorial/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://J-Miao.github.io/publication/vldb21-tutorial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Snippext: Semi-supervised Opinion Mining with Augmented Data</title>
