@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://J-Miao.github.io/authors/</loc>
-    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+    <loc>https://J-Miao.github.io/authors/amir-gilad/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://J-Miao.github.io/publication/vldb21-tutorial/</loc>
-    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+    <loc>https://J-Miao.github.io/authors/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/authors/jun-yang/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://J-Miao.github.io/publication/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/authors/sudeepa-roy/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/publication/sigmod22-cins/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/authors/zhengjie-miao/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://J-Miao.github.io/publication/vldb21-tutorial/</loc>
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,11 +54,6 @@
   
   <url>
     <loc>https://J-Miao.github.io/authors/yuliang-li/</loc>
-    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://J-Miao.github.io/authors/zhengjie-miao/</loc>
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,8 +83,8 @@
   </url>
   
   <url>
-    <loc>https://J-Miao.github.io/authors/sudeepa-roy/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+    <loc>https://J-Miao.github.io/hnrq/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -104,11 +124,6 @@
   
   <url>
     <loc>https://J-Miao.github.io/publication/sigmod19-explaining/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://J-Miao.github.io/authors/jun-yang/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
   </url>
   
