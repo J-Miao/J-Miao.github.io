@@ -82,7 +82,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.09ee20736f7f1db1fa57ebc9a8f81740.css">
+  <link rel="stylesheet" href="/css/academic.min.2c8386a4fb92192d6c3d01ad81065b13.css">
 
   
     
@@ -479,7 +479,7 @@
     
     
     
-    <script src="/js/academic.min.7a9e22fe814c7b791f39c17b76f7b749.js"></script>
+    <script src="/js/academic.min.616ca9ea3a4ec0bac5b4cc8b3665f1ca.js"></script>
 
     
 
@@ -494,7 +494,7 @@
   
 
   <p class="powered-by">
-    © 2021 Zhengjie Miao &middot; 
+    © 2023 Zhengjie Miao &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -511,88 +511,6 @@
     
   </p>
 </footer>
-<script type="text/javascript">
-  var years, months, days, hours, minutes, seconds, timeout;
-  var speed = 1000;
-
-  seconds = document.getElementById('seconds');
-  minutes = document.getElementById('minutes');
-  hours = document.getElementById('hours');
-  days = document.getElementById('days');
-  months = document.getElementById('months');
-  years = document.getElementById('years');
-  timeout = false;
-
-function recenterLabel() {
-  var w = $($('.countdown-label')[0]).outerWidth();
-  var imgW = $('.countdown-label img').outerWidth();
-  var imgH = $('.countdown-label img').outerHeight();
-  var lbs = $('.countdown-label');
-  for (var i = 0; i < lbs.length; i++) {
-    var left = $(lbs[i]).offset().left;
-    var top =  $(lbs[i]).offset().top;
-    $($('.countdown-label img')[i]).offset({left: left + 0.5*Math.abs(w - imgW)});
-    var lbtopW = $($('.countdown-label-top')[i]).outerWidth();
-    var lbbottomW = $($('.countdown-label-bottom')[i]).outerWidth();
-    $($('.countdown-label-top')[i]).offset({left: left + 0.5*Math.abs(w - lbtopW)});
-    $($('.countdown-label-bottom')[i]).offset({left: left + 0.5*Math.abs(w - lbbottomW), top: top + 0.35*imgH});
-  }
-}
-
-$('.countdown-label img').on('load', function() {
-  recenterLabel();
-});
-
-
-$(window).on('resize', function() {
-  recenterLabel();
-});
-
-
-function automate() {
-  if(timeout != false) {
-    clearTimeout(timeout);
-  }
-  var units = ~countdown.ALL,
-    max = 11,
-    digits = 0;
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  var yyyy = 2021,
-      MM = 4,
-      dd = 29,
-      HH = 16,
-      mm = 56,
-      ss = 0,
-      fff = 0;
-
-  var start = new Date(yyyy, MM, dd, HH, mm, ss, fff);
-  
-  var ts = countdown(start);
-  seconds.innerHTML = ts.seconds;
-  minutes.innerHTML = ts.minutes;
-  hours.innerHTML = ts.hours;
-  days.innerHTML = ts.days;
-  months.innerHTML = ts.months;
-  years.innerHTML = ts.years;
-
-  recenterLabel();
-  timeout = setTimeout('automate()', speed);
-}
-
-if (seconds) {
-  automate();
-}
-
-</script>
 
   </div>
   

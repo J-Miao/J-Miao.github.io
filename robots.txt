@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://J-Miao.github.io/sitemap.xml
