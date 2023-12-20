@@ -1,3 +1,4 @@
 User-agent: *
+Disallow:
 
-Sitemap: https://J-Miao.github.io/sitemap.xml
+Sitemap: https://J-Miao.github.io///sitemap.xml
