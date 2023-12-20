@@ -1,0 +1,1 @@
+$(document).ready(function(){$(document).on("click",".pronounce",function(){alert("click bound to document listening for #test-element"),$(".pronounce-audio").toggleClass("hidden")})});
