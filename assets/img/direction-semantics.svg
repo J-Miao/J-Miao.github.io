@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 875" fill="none">
+  <!-- DRAFT placeholder figure: two queries, an equivalence check, and the witness row that separates them. Replace freely. -->
+<g transform="translate(0,-55)">
+  <rect x="120" y="90" width="360" height="190" rx="28" stroke="#8a8f98" stroke-width="7"/>
+  <text x="300" y="212" font-family="Helvetica,Arial,sans-serif" font-size="104" text-anchor="middle" fill="#8a8f98">Q<tspan font-size="66" dy="18">1</tspan></text>
+  <rect x="920" y="90" width="360" height="190" rx="28" stroke="#8a8f98" stroke-width="7"/>
+  <text x="1100" y="212" font-family="Helvetica,Arial,sans-serif" font-size="104" text-anchor="middle" fill="#8a8f98">Q<tspan font-size="66" dy="18">2</tspan></text>
+  <path d="M480 190 L632 348" stroke="#8a8f98" stroke-width="7" stroke-linecap="round"/>
+  <path d="M920 190 L768 348" stroke="#8a8f98" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="700" cy="400" r="76" stroke="#8a8f98" stroke-width="7"/>
+  <text x="700" y="434" font-family="Helvetica,Arial,sans-serif" font-size="92" text-anchor="middle" fill="#8a8f98">=?</text>
+  <path d="M700 476 L700 530" stroke="#CC0633" stroke-width="7" stroke-dasharray="14 12" stroke-linecap="round"/>
+  <g transform="translate(400,530)">
+    <rect x="0" y="0" width="600" height="56" stroke="#8a8f98" stroke-width="5"/>
+    <rect x="0" y="56" width="600" height="56" fill="#CC0633" fill-opacity=".16" stroke="#CC0633" stroke-width="6"/>
+    <rect x="0" y="112" width="600" height="56" stroke="#8a8f98" stroke-width="5"/>
+    <line x1="200" y1="0" x2="200" y2="168" stroke="#8a8f98" stroke-width="4"/>
+    <line x1="400" y1="0" x2="400" y2="168" stroke="#8a8f98" stroke-width="4"/>
+  </g>
+</g>
+</svg>
